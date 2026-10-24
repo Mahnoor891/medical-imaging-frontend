@@ -150,5 +150,5 @@ To change the company name, email, phone or address shown across the site, edit 
 
 ## Author
 
-`<Your name>` · Department of Computer Science, University of Karachi
-`<Course name / supervisor>`
+* **Mahnoor Khan**
+* **Ayesha Abid**
